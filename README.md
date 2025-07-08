@@ -6,7 +6,7 @@ Cihat Tuncay Portfolio Website
 
 This repository contains the source code for my personal portfolio website, built with modern web technologies to showcase my skills, projects, and services.
 
-Features:
+FEATURES:
 
 Responsive Design: Mobile-first layout using Flexbox, CSS Grid, and media queries.
 
@@ -20,7 +20,7 @@ Projects Showcase: Interactive project cards with hover overlay effects.
 
 Contact Form: Integrated with Formspree for backend-free form handling.
 
-Technologies:
+TECHNOLOGIES:
 
 HTML5
 
